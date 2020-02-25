@@ -1,2 +1,2 @@
-# fuzzyname
-Fuzzy Name matching library written in C#
+# FuzzyName
+Fuzzy Name matching library written in C#.
